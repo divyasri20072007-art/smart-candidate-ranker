@@ -1,4 +1,8 @@
 # RecruitMind AI
+## 👥 Contributors
+
+- **[Divyasri](https://github.com/divyasri20072007-art)**
+- **[Pavan Kumar](https://github.com/CEOPAVANAKUMAR)**
 
 **An explainable, multi-agent AI hiring intelligence system.**
 *"We don't rank resumes. We understand people."*
